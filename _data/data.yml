@@ -8,20 +8,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: SunTr
+  tagline: student
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: bingru19999@gmail.com
+  QQ:1096997540
+  timezone: China/GuangDong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: https://suntr.top/ # Include the full website URL, including "http://" or "https://".
+  linkedin: tr
+  xing: tr
+  github: suntr2025
+  telegram:@SunTrchat_bot # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
